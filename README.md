@@ -23,3 +23,6 @@ Trained YOLOv9 on a Roboflow dataset of annotated vehicle license plates.
 - Improve OCR with CRNN
 - Add vehicle type classifier
 
+## Credits
+- [YOLOv9 by Ultralytics](https://github.com/WongKinYiu/yolov9) 
+- [Roboflow Universe](https://universe.roboflow.com/) 
